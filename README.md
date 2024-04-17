@@ -1,3 +1,3 @@
 # CODSOFT
-These project are done based on python module tkinter.
+These projects are done based on python module tkinter.
 These are the tasks of CODESOFT.
